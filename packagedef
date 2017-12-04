@@ -59,7 +59,7 @@
 
 
 
-Описание.Имя("tfs-tools")
+Описание.Имя("vanessa-tfs")
         .Версия("1.0.1")
         .Автор("Artur Ayukhanov")
         .АдресАвтора("aartbear@gmail.com")
